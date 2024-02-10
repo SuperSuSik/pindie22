@@ -1,6 +1,6 @@
 import Styles from './globals.css'
-import { Header } from "/components/Header/Header.jsx"
-import { Footer } from "/components/Footer/Footer.jsx"
+import { Header } from './components/Header/Header'
+import { Footer } from './components/Footer/Footer'
 
 export const metadata = {
   title: 'Pindie',
